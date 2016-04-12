@@ -1,0 +1,12 @@
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.csprojResolveAssemblyReference.cache
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.dll.config
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.dll
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.pdb
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.dll
+c:\users\rukshar\documents\visual studio 2013\Projects\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.pdb
+H:\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.dll.config
+H:\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.dll
+H:\ManOfSteelFinal\ManOfSteelFinal\bin\ManOfSteelFinal.pdb
+H:\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.csprojResolveAssemblyReference.cache
+H:\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.dll
+H:\ManOfSteelFinal\ManOfSteelFinal\obj\Debug\ManOfSteelFinal.pdb
